@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sadaf
 
-💻 Computer Engineering Student | Passionate about **Data Science & Machine Learning**  
+💻 Bachelor’s in Computer Engineerig | Passionate about **Data Science & Machine Learning**  
 
 ---
 
